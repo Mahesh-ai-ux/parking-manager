@@ -18,7 +18,7 @@ import {
 import Monthly from "./components/Monthly";
 import Tenants from "./components/Tenants";
 import Year from "./components/Year";
-import { TenantForm, PaymentForm, Detail, Settings } from "./components/Modals";
+import { TenantForm, PaymentForm, Detail, Settings } from "./components/Models";
 
 const useEffect = (effect, dependencies) =>
   reactUseEffect(() => {
