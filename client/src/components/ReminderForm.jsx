@@ -7,7 +7,7 @@ import {
   currentMonth,
 } from "../utils";
 
-import { Modal } from "./Modals";
+import { Modal } from "./Models";
 
 function ReminderForm({
   tenant,
